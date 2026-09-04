@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 245" role="img" aria-labelledby="title desc">
+  <title id="title">DirectOut IOX.2 extension front panel</title>
+  <desc id="desc">Vector front panel for an IOX.2 extension unit.</desc>
+  <defs>
+    <style>
+      .panel { fill: #fff; stroke: #181818; stroke-width: 1.6; }
+      .line { fill: none; stroke: #181818; stroke-width: 2; }
+      .thin { fill: none; stroke: #555; stroke-width: 1; }
+      .label { fill: #262626; font: 600 11px Arial, sans-serif; letter-spacing: .45px; }
+      .tiny { fill: #303030; font: 600 9px Arial, sans-serif; }
+      .brand { fill: #111; font: italic 700 23px Arial, sans-serif; letter-spacing: -1.3px; }
+      .technology { fill: #111; font: 700 6px Arial, sans-serif; letter-spacing: 3.1px; }
+    </style>
+  </defs>
+  <rect class="panel" x=".8" y=".8" width="1198.4" height="243.4"/>
+  <path class="line" d="M16 115 Q288 90 458 105M870 125 Q1040 125 1184 109"/>
+  <path class="line" d="M16 115v-80M1184 109v-74"/>
+  <g class="thin"><path d="M0 34h16v46H0M0 170h16v46H0M1184 34h16v46M1184 170h16v46"/></g>
+  <text class="brand" x="45" y="40">DirectOut</text><path class="line" d="M40 44h194"/><text class="technology" x="94" y="54">TECHNOLOGIES</text>
+  <text class="label" x="245" y="40">IOX.2</text><text class="label" x="293" y="40">|</text><text class="label" x="310" y="40">EXTENSION</text>
+  <g transform="translate(40 168)">
+    <path class="thin" d="M0 0v-8h134v8M171 0v-8h201v8"/>
+    <text class="tiny" x="41" y="-1">POWER</text><text class="tiny" x="222" y="-1">SYNC / STATUS</text>
+    <g class="thin"><circle cx="34" cy="18" r="9"/><circle cx="101" cy="18" r="9"/><circle cx="201" cy="18" r="9"/><circle cx="269" cy="18" r="9"/><circle cx="337" cy="18" r="9"/></g>
+    <g class="tiny"><text x="16" y="50">PSU 1</text><text x="83" y="50">PSU 2</text><text x="181" y="50">MADI 1</text><text x="249" y="50">MADI 2</text><text x="329" y="50">C1</text></g>
+  </g>
+  <g transform="translate(453 13)"><rect width="416" height="218" rx="11" fill="#030303"/><rect x="96" y="44" width="274" height="133" fill="#3b3b3b"/><text x="233" y="127" fill="#fff" text-anchor="middle" font-family="Arial, sans-serif" font-size="43" font-weight="700">IOX.2</text></g>
+  <g transform="translate(1033 125)"><circle class="thin" r="72"/><circle class="thin" r="67"/><text class="tiny" x="-29" y="95">CONTROL</text><path class="line" d="M89 59v-16m-8 8h16"/><circle class="line" cx="89" cy="51" r="8"/><text class="tiny" x="78" y="78">PRESS 3s</text></g>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 245" role="img" aria-labelledby="title desc">
+  <title id="title">DirectOut ACE.02 front panel</title>
+  <desc id="desc">Vector front panel for an ACE.02 smart platform.</desc>
+  <defs>
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090909"/><stop offset="1" stop-color="#414141"/></linearGradient>
+    <radialGradient id="knob"><stop stop-color="#4a4a4a"/><stop offset="1" stop-color="#151515"/></radialGradient>
+    <style>
+      .panel { fill: #151515; stroke: #666; stroke-width: 3; }
+      .line { fill: none; stroke: #8df2dc; stroke-width: 2; }
+      .thin { fill: none; stroke: #e4e4e4; stroke-width: 1.7; }
+      .label { fill: #f5f5f5; font: 600 10px Arial, sans-serif; }
+      .tiny { fill: #ededed; font: 600 7px Arial, sans-serif; }
+      .brand { fill: #81e5d2; font: italic 700 17px Arial, sans-serif; letter-spacing: -1px; }
+    </style>
+  </defs>
+  <rect class="panel" x="2" y="6" width="1596" height="232" rx="10"/>
+  <path class="line" d="M4 117 Q800 94 1596 113"/>
+  <path fill="#777" d="M0 25h7v36H0M0 171h7v36H0M1593 25h7v36h-7M1593 171h7v36h-7"/>
+  <text class="brand" x="42" y="29">DirectOut</text><text class="tiny" x="50" y="40" fill="#81e5d2">TECHNOLOGIES</text>
+  <text class="label" x="210" y="29">ACE.02</text><text class="label" x="270" y="29">| MY SMART PLATFORM</text>
+  <g transform="translate(105 154)"><path class="thin" d="M0 39v6h466v-6"/><text class="tiny" x="225" y="49">PHONES</text>
+    <g class="thin"><circle cx="38" cy="0" r="14"/><circle cx="113" cy="0" r="20"/><circle cx="214" cy="0" r="20"/><circle cx="315" cy="0" r="20"/><circle cx="416" cy="0" r="20"/></g>
+    <g class="tiny"><text x="20" y="-35">1 (alt.)</text><text x="110" y="-35">1</text><text x="211" y="-35">2</text><text x="312" y="-35">3</text><text x="413" y="-35">4</text></g>
+  </g>
+  <g transform="translate(652 68)"><ellipse cx="0" cy="0" rx="31" ry="15" fill="url(#knob)"/><ellipse cx="0" cy="86" rx="31" ry="15" fill="url(#knob)"/><text class="tiny" x="-17" y="31">MENU</text><text class="tiny" x="-17" y="118">BACK</text></g>
+  <g transform="translate(764 14)"><rect width="535" height="208" rx="8" fill="#080808" stroke="#555" stroke-width="2"/><rect x="82" y="18" width="418" height="172" fill="url(#screen)"/><text x="291" y="137" fill="#f4f4f4" text-anchor="middle" font-family="Arial, sans-serif" font-size="82" font-weight="700">ACE</text></g>
+  <g transform="translate(1432 118)"><path class="thin" d="M-98-88h198v10M-98-88v10M100-88v10"/><text class="tiny" x="-20" y="-84">POWER</text><circle cx="-69" cy="-66" r="8" fill="#76f3aa"/><circle cx="69" cy="-66" r="8" fill="#76f3aa"/><text class="tiny" x="-76" y="-48">1</text><text class="tiny" x="62" y="-48">2</text><circle cx="0" cy="0" r="60" fill="url(#knob)" stroke="#9a9a9a" stroke-width="2"/><text class="tiny" x="-27" y="88">CONTROL</text><circle class="thin" cx="70" cy="64" r="8"/><path class="thin" d="M70 48v13"/><text class="tiny" x="52" y="88">PRESS 3s</text></g>
+</svg>

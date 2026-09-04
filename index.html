@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>vis-network Topologia JSON</title>
+  <link rel="stylesheet" href="./lib/vendor/vis-network/vis-network.min.css">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div id="network" aria-label="Topologia di rete"></div>
+  <button id="resetButton" type="button">Reset disegno</button>
+  <dialog id="nodeDialog" aria-labelledby="nodeDialogTitle">
+    <button id="closeDialogButton" class="dialog-close" type="button" aria-label="Chiudi dettagli">x</button>
+    <h2 id="nodeDialogTitle">Dettagli nodo</h2>
+    <dl id="nodeDetails"></dl>
+    <button id="nodeActionButton" class="dialog-action" type="button">Apri dettagli</button>
+  </dialog>
+
+  <script src="./lib/vendor/vis-network/vis-network.min.js"></script>
+  <script src="./data/topology.local.js"></script>
+  <script src="./app.js"></script>
+</body>
+</html>

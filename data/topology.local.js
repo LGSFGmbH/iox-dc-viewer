@@ -1,0 +1,23 @@
+// Copia locale di topology.json: necessaria solo quando index.html e aperto via file://.
+window.LOCAL_TOPOLOGY = {
+  "nodes": [
+    { "id": "iox2-01", "label": "IOX.2 01", "group": "iox2", "details": { "Modello": "IOX.2 Extension", "Posizione": "Loop 1" } },
+    { "id": "iox2-02", "label": "IOX.2 02", "group": "iox2", "details": { "Modello": "IOX.2 Extension", "Posizione": "Loop 2" } },
+    { "id": "iox2-03", "label": "IOX.2 03", "group": "iox2", "details": { "Modello": "IOX.2 Extension", "Posizione": "Loop 3" } },
+    { "id": "iox4-01", "label": "IOX.4 01", "group": "iox4", "details": { "Modello": "IOX.4 Extension", "Posizione": "Loop 4" } },
+    { "id": "iox4-02", "label": "IOX.4 02", "group": "iox4", "details": { "Modello": "IOX.4 Extension", "Posizione": "Loop 5" } },
+    { "id": "iox4-03", "label": "IOX.4 03", "group": "iox4", "details": { "Modello": "IOX.4 Extension", "Posizione": "Loop 6" } },
+    { "id": "iox4-04", "label": "IOX.4 04", "group": "iox4", "details": { "Modello": "IOX.4 Extension", "Posizione": "Loop 7" } },
+    { "id": "ace-02", "label": "ACE.02", "group": "ace", "details": { "Modello": "ACE.02 Smart Platform", "Posizione": "Loop 8" } }
+  ],
+  "edges": [
+    { "id": "loop-01", "from": "iox2-01", "to": "iox2-02", "color": { "color": "#81e5d2", "highlight": "#4bc7b4" } },
+    { "id": "loop-02", "from": "iox2-02", "to": "iox2-03", "color": { "color": "#81e5d2", "highlight": "#4bc7b4" } },
+    { "id": "loop-03", "from": "iox2-03", "to": "iox4-01", "color": { "color": "#81e5d2", "highlight": "#4bc7b4" } },
+    { "id": "loop-04", "from": "iox4-01", "to": "iox4-02", "color": { "color": "#81e5d2", "highlight": "#4bc7b4" } },
+    { "id": "loop-05", "from": "iox4-02", "to": "iox4-03", "color": { "color": "#81e5d2", "highlight": "#4bc7b4" } },
+    { "id": "loop-06", "from": "iox4-03", "to": "iox4-04", "color": { "color": "#81e5d2", "highlight": "#4bc7b4" } },
+    { "id": "loop-07", "from": "iox4-04", "to": "ace-02", "color": { "color": "#81e5d2", "highlight": "#4bc7b4" } },
+    { "id": "loop-08", "from": "ace-02", "to": "iox2-01", "color": { "color": "#81e5d2", "highlight": "#4bc7b4" } }
+  ]
+};

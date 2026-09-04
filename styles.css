@@ -1,0 +1,103 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  overflow: hidden;
+  background: #b8b8b8;
+}
+
+#network {
+  width: 100vw;
+  height: 100vh;
+  background: #b8b8b8;
+}
+
+#resetButton {
+  position: fixed;
+  top: 16px;
+  right: 16px;
+  z-index: 1;
+  border: 1px solid #5f5f5f;
+  border-radius: 6px;
+  padding: 10px 14px;
+  color: #f7f7f7;
+  background: #303030;
+  font: 600 14px Arial, sans-serif;
+  cursor: pointer;
+}
+
+#resetButton:hover {
+  background: #464646;
+}
+
+#nodeDialog {
+  width: min(360px, calc(100vw - 32px));
+  border: 1px solid #5f5f5f;
+  border-radius: 8px;
+  padding: 24px;
+  color: #efefef;
+  background: #282828;
+  box-shadow: 0 18px 55px rgba(0, 0, 0, 0.45);
+}
+
+#nodeDialog::backdrop {
+  background: rgba(0, 0, 0, 0.42);
+}
+
+#nodeDialog h2 {
+  margin: 0 32px 18px 0;
+  font: 600 20px Arial, sans-serif;
+}
+
+#nodeDetails {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: 8px 16px;
+  margin: 0;
+  font: 14px Arial, sans-serif;
+}
+
+#nodeDetails dt {
+  color: #81e5d2;
+  font-weight: 700;
+}
+
+#nodeDetails dd {
+  margin: 0;
+}
+
+.dialog-action {
+  width: 100%;
+  margin-top: 22px;
+  border: 0;
+  border-radius: 5px;
+  padding: 10px 14px;
+  color: #14201e;
+  background: #81e5d2;
+  font: 700 14px Arial, sans-serif;
+  cursor: pointer;
+}
+
+.dialog-action:hover {
+  background: #a5f2e3;
+}
+
+.dialog-close {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  width: 28px;
+  height: 28px;
+  border: 0;
+  border-radius: 4px;
+  color: #efefef;
+  background: transparent;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.dialog-close:hover {
+  background: #454545;
+}
