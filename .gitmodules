@@ -1,0 +1,3 @@
+[submodule "lib/porthole"]
+	path = lib/porthole
+	url = git@github.com:LGSFGmbH/porthole-browser-sdk.git

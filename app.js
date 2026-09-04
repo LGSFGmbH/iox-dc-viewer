@@ -1,10 +1,7 @@
 const DATA_URL = "./data/topology.json";
 const DEFAULT_EDGE_COLOR = { color: "#81e5d2", highlight: "#4bc7b4" };
-const PortholeEventType = Object.freeze({
-  BUTTON_CLICKED: Object.freeze({ code: 0 }),
-  TEXT_SUBMITTED: Object.freeze({ code: 1 }),
-  VALUE_CHANGED: Object.freeze({ code: 2 }),
-  ITEM_SELECTED: Object.freeze({ code: 3 })
+const IoxDcViewerAction = Object.freeze({
+  OPEN_NODE_DETAILS: "OPEN_NODE_DETAILS"
 });
 
 const networkContainer = document.getElementById("network");
@@ -192,8 +189,12 @@ async function init() {
 resetButton.addEventListener("click", resetLayout);
 closeDialogButton.addEventListener("click", () => nodeDialog.close());
 nodeActionButton.addEventListener("click", () => {
-  if (activeNode && window.globconBridge?.emit) {
-    window.globconBridge.emit(PortholeEventType.BUTTON_CLICKED.code, "OPEN_NODE_DETAILS", String(activeNode.id));
+  if (activeNode) {
+    Porthole.emit(
+        Porthole.EventType.BUTTON_CLICKED,
+        IoxDcViewerAction.OPEN_NODE_DETAILS,
+        activeNode.id
+    );
   }
 });
 init();
