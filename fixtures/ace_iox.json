@@ -1,0 +1,3365 @@
+{
+    "iox": {
+            "status": [
+                [
+                    0,
+                    {
+                        "psu": [
+                            [
+                                0,
+                                false
+                            ],
+                            [
+                                1,
+                                false
+                            ]
+                        ],
+                        "temperature": 0,
+                        "serial": 0,
+                        "slot": [
+                            [
+                                0,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                1,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                2,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                3,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ]
+                        ],
+                        "madi": [
+                            [
+                                0,
+                                {
+                                    "host_lock": false,
+                                    "lock": false,
+                                    "sync": false
+                                }
+                            ],
+                            [
+                                1,
+                                {
+                                    "host_lock": false,
+                                    "lock": false,
+                                    "sync": false
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                [
+                    1,
+                    {
+                        "psu": [
+                            [
+                                0,
+                                false
+                            ],
+                            [
+                                1,
+                                false
+                            ]
+                        ],
+                        "temperature": 0,
+                        "serial": 0,
+                        "slot": [
+                            [
+                                0,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                1,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                2,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                3,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ]
+                        ],
+                        "madi": [
+                            [
+                                0,
+                                {
+                                    "host_lock": false,
+                                    "lock": false,
+                                    "sync": false
+                                }
+                            ],
+                            [
+                                1,
+                                {
+                                    "host_lock": false,
+                                    "lock": false,
+                                    "sync": false
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                [
+                    2,
+                    {
+                        "psu": [
+                            [
+                                0,
+                                false
+                            ],
+                            [
+                                1,
+                                false
+                            ]
+                        ],
+                        "temperature": 0,
+                        "serial": 0,
+                        "slot": [
+                            [
+                                0,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                1,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                2,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                3,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ]
+                        ],
+                        "madi": [
+                            [
+                                0,
+                                {
+                                    "host_lock": false,
+                                    "lock": false,
+                                    "sync": false
+                                }
+                            ],
+                            [
+                                1,
+                                {
+                                    "host_lock": false,
+                                    "lock": false,
+                                    "sync": false
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                [
+                    3,
+                    {
+                        "psu": [
+                            [
+                                0,
+                                false
+                            ],
+                            [
+                                1,
+                                false
+                            ]
+                        ],
+                        "temperature": 0,
+                        "serial": 0,
+                        "slot": [
+                            [
+                                0,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                1,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                2,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                3,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ]
+                        ],
+                        "madi": [
+                            [
+                                0,
+                                {
+                                    "host_lock": false,
+                                    "lock": false,
+                                    "sync": false
+                                }
+                            ],
+                            [
+                                1,
+                                {
+                                    "host_lock": false,
+                                    "lock": false,
+                                    "sync": false
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                [
+                    4,
+                    {
+                        "psu": [
+                            [
+                                0,
+                                false
+                            ],
+                            [
+                                1,
+                                false
+                            ]
+                        ],
+                        "temperature": 0,
+                        "serial": 0,
+                        "slot": [
+                            [
+                                0,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                1,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                2,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                3,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ]
+                        ],
+                        "madi": [
+                            [
+                                0,
+                                {
+                                    "host_lock": false,
+                                    "lock": false,
+                                    "sync": false
+                                }
+                            ],
+                            [
+                                1,
+                                {
+                                    "host_lock": false,
+                                    "lock": false,
+                                    "sync": false
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                [
+                    5,
+                    {
+                        "psu": [
+                            [
+                                0,
+                                false
+                            ],
+                            [
+                                1,
+                                false
+                            ]
+                        ],
+                        "temperature": 0,
+                        "serial": 0,
+                        "slot": [
+                            [
+                                0,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                1,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                2,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                3,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ]
+                        ],
+                        "madi": [
+                            [
+                                0,
+                                {
+                                    "host_lock": false,
+                                    "lock": false,
+                                    "sync": false
+                                }
+                            ],
+                            [
+                                1,
+                                {
+                                    "host_lock": false,
+                                    "lock": false,
+                                    "sync": false
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                [
+                    6,
+                    {
+                        "psu": [
+                            [
+                                0,
+                                false
+                            ],
+                            [
+                                1,
+                                false
+                            ]
+                        ],
+                        "temperature": 0,
+                        "serial": 0,
+                        "slot": [
+                            [
+                                0,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                1,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                2,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                3,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ]
+                        ],
+                        "madi": [
+                            [
+                                0,
+                                {
+                                    "host_lock": false,
+                                    "lock": false,
+                                    "sync": false
+                                }
+                            ],
+                            [
+                                1,
+                                {
+                                    "host_lock": false,
+                                    "lock": false,
+                                    "sync": false
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                [
+                    7,
+                    {
+                        "psu": [
+                            [
+                                0,
+                                false
+                            ],
+                            [
+                                1,
+                                false
+                            ]
+                        ],
+                        "temperature": 0,
+                        "serial": 0,
+                        "slot": [
+                            [
+                                0,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                1,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                2,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                3,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ]
+                        ],
+                        "madi": [
+                            [
+                                0,
+                                {
+                                    "host_lock": false,
+                                    "lock": false,
+                                    "sync": false
+                                }
+                            ],
+                            [
+                                1,
+                                {
+                                    "host_lock": false,
+                                    "lock": false,
+                                    "sync": false
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                [
+                    8,
+                    {
+                        "psu": [
+                            [
+                                0,
+                                false
+                            ],
+                            [
+                                1,
+                                false
+                            ]
+                        ],
+                        "temperature": 0,
+                        "serial": 0,
+                        "slot": [
+                            [
+                                0,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                1,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                2,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                3,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ]
+                        ],
+                        "madi": [
+                            [
+                                0,
+                                {
+                                    "host_lock": false,
+                                    "lock": false,
+                                    "sync": false
+                                }
+                            ],
+                            [
+                                1,
+                                {
+                                    "host_lock": false,
+                                    "lock": false,
+                                    "sync": false
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                [
+                    9,
+                    {
+                        "psu": [
+                            [
+                                0,
+                                false
+                            ],
+                            [
+                                1,
+                                false
+                            ]
+                        ],
+                        "temperature": 0,
+                        "serial": 0,
+                        "slot": [
+                            [
+                                0,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                1,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                2,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                3,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ]
+                        ],
+                        "madi": [
+                            [
+                                0,
+                                {
+                                    "host_lock": false,
+                                    "lock": false,
+                                    "sync": false
+                                }
+                            ],
+                            [
+                                1,
+                                {
+                                    "host_lock": false,
+                                    "lock": false,
+                                    "sync": false
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                [
+                    10,
+                    {
+                        "psu": [
+                            [
+                                0,
+                                false
+                            ],
+                            [
+                                1,
+                                false
+                            ]
+                        ],
+                        "temperature": 0,
+                        "serial": 0,
+                        "slot": [
+                            [
+                                0,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                1,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                2,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                3,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ]
+                        ],
+                        "madi": [
+                            [
+                                0,
+                                {
+                                    "host_lock": false,
+                                    "lock": false,
+                                    "sync": false
+                                }
+                            ],
+                            [
+                                1,
+                                {
+                                    "host_lock": false,
+                                    "lock": false,
+                                    "sync": false
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                [
+                    11,
+                    {
+                        "psu": [
+                            [
+                                0,
+                                false
+                            ],
+                            [
+                                1,
+                                false
+                            ]
+                        ],
+                        "temperature": 0,
+                        "serial": 0,
+                        "slot": [
+                            [
+                                0,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                1,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                2,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                3,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ]
+                        ],
+                        "madi": [
+                            [
+                                0,
+                                {
+                                    "host_lock": false,
+                                    "lock": false,
+                                    "sync": false
+                                }
+                            ],
+                            [
+                                1,
+                                {
+                                    "host_lock": false,
+                                    "lock": false,
+                                    "sync": false
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                [
+                    12,
+                    {
+                        "psu": [
+                            [
+                                0,
+                                false
+                            ],
+                            [
+                                1,
+                                false
+                            ]
+                        ],
+                        "temperature": 0,
+                        "serial": 0,
+                        "slot": [
+                            [
+                                0,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                1,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                2,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                3,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ]
+                        ],
+                        "madi": [
+                            [
+                                0,
+                                {
+                                    "host_lock": false,
+                                    "lock": false,
+                                    "sync": false
+                                }
+                            ],
+                            [
+                                1,
+                                {
+                                    "host_lock": false,
+                                    "lock": false,
+                                    "sync": false
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                [
+                    13,
+                    {
+                        "psu": [
+                            [
+                                0,
+                                false
+                            ],
+                            [
+                                1,
+                                false
+                            ]
+                        ],
+                        "temperature": 0,
+                        "serial": 0,
+                        "slot": [
+                            [
+                                0,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                1,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                2,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                3,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ]
+                        ],
+                        "madi": [
+                            [
+                                0,
+                                {
+                                    "host_lock": false,
+                                    "lock": false,
+                                    "sync": false
+                                }
+                            ],
+                            [
+                                1,
+                                {
+                                    "host_lock": false,
+                                    "lock": false,
+                                    "sync": false
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                [
+                    14,
+                    {
+                        "psu": [
+                            [
+                                0,
+                                false
+                            ],
+                            [
+                                1,
+                                false
+                            ]
+                        ],
+                        "temperature": 0,
+                        "serial": 0,
+                        "slot": [
+                            [
+                                0,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                1,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                2,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                3,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ]
+                        ],
+                        "madi": [
+                            [
+                                0,
+                                {
+                                    "host_lock": false,
+                                    "lock": false,
+                                    "sync": false
+                                }
+                            ],
+                            [
+                                1,
+                                {
+                                    "host_lock": false,
+                                    "lock": false,
+                                    "sync": false
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                [
+                    15,
+                    {
+                        "psu": [
+                            [
+                                0,
+                                false
+                            ],
+                            [
+                                1,
+                                false
+                            ]
+                        ],
+                        "temperature": 0,
+                        "serial": 0,
+                        "slot": [
+                            [
+                                0,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                1,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                2,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                3,
+                                {
+                                    "slot_id": 0,
+                                    "module_type": 0,
+                                    "lock": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ],
+                                    "sync": [
+                                        [
+                                            0,
+                                            false
+                                        ],
+                                        [
+                                            1,
+                                            false
+                                        ],
+                                        [
+                                            2,
+                                            false
+                                        ],
+                                        [
+                                            3,
+                                            false
+                                        ]
+                                    ]
+                                }
+                            ]
+                        ],
+                        "madi": [
+                            [
+                                0,
+                                {
+                                    "host_lock": false,
+                                    "lock": false,
+                                    "sync": false
+                                }
+                            ],
+                            [
+                                1,
+                                {
+                                    "host_lock": false,
+                                    "lock": false,
+                                    "sync": false
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            ],
+            "settings": {
+                "enabled": [
+                    [
+                        0,
+                        false
+                    ],
+                    [
+                        1,
+                        false
+                    ]
+                ],
+                "write_label": false,
+                "label": "",
+                "current_serial": 0
+            }
+        }
+    }

@@ -188,13 +188,4 @@ async function init() {
 
 resetButton.addEventListener("click", resetLayout);
 closeDialogButton.addEventListener("click", () => nodeDialog.close());
-nodeActionButton.addEventListener("click", () => {
-  if (activeNode) {
-    Porthole.emit(
-        Porthole.EventType.BUTTON_CLICKED,
-        IoxDcViewerAction.OPEN_NODE_DETAILS,
-        activeNode.id
-    );
-  }
-});
 init();
