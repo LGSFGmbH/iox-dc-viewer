@@ -63,20 +63,18 @@ function onError(error: Error): void {
 
 let websocketUrl: URL;
 if (import.meta.env.DEV) {
-  // Sviluppo: simulatore locale, senza vdevId.
+  // Sviluppo: simulatore locale, senza ID dispositivo.
   websocketUrl = new URL(
       import.meta.env.VITE_GLOBCON_WS_URL ?? URL_DEFAULT_WEBSOCKET,
   );
 } else {
   const pageUrl = new URL(window.location.href);
   const id = pageUrl.searchParams.get("id");
-  if (!id?.trim()) {
-    throw new Error("id mancante nell'URL del viewer.");
+  if (!id || !/^\d+$/.test(id)) {
+    throw new Error("ID dispositivo mancante o non valido nell'URL del viewer.");
   }
-  // HTTP e WebSocket condividono host e porta di globcon.
-  websocketUrl = new URL("/iox", pageUrl);
+  websocketUrl = new URL(`/iox/${id}`, pageUrl);
   websocketUrl.protocol = pageUrl.protocol === "https:" ? "wss:" : "ws:";
-  websocketUrl.searchParams.set("id", id);
 }
 
 const client = new GlobconClient({
